@@ -1,6 +1,6 @@
 # go_trunk3
 
-> Nuxt.js project
+> Nuxt.js project ： this is a tool which can merge codes from develop branch to trunk branch and commit automaticly.
 
 ## Build Setup
 
